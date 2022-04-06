@@ -1,1 +1,1 @@
-# Dta-table
+# Data-table
