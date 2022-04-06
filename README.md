@@ -7,9 +7,11 @@ This project was build with [Create React App](https://github.com/facebook/creat
 
 # DATA-TABLE
 
-The project fetch the data in the form of table gathering the information about the User's order and other info as well.
+The project is basically a Data-Table. 
 
-The project is build without any help of an External Library.
+In which the data is fetch  in the form of table gathering the information about the User's order and other info as well.
 
-The User can search about the user's information using the Search filter by typing his name.
+The project is build and styled without the help of any External Library.
+
+The User can search about the user's information using the Search filter by typing user's  name.
 
